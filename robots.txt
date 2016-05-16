@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /*?lang=en
+Disallow: /client/*
+Disallow: /works/*
+Disallow: /faq/*
